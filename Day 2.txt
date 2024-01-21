@@ -1,0 +1,54 @@
+data:
+1.big data - skil
+Hadoop
+hive
+nosql
+flume
+kafka
+spark
+ci/cd pipe line
+
+2.data analyst - skil
+
+sql
+excel
+python basics
+dashboading
+
+3.Data scientist-skil
+
+python/R/c/c++/java any one language ,python supporting scripting and oops
+math
+ML
+DL
+Computer Vision
+NLP
+Reinforcement learning
+cloud
+CICD
+edge Devices
+
+
+AI - artificial inteligence
+its inteligents system which i will able to automate ll takr desicion
+this is the final roduct to make desicion
+
+example - email automated responses
+in what app when we try to type its showing dome suggession
+based on the key you tubr will show so many suggession videos
+when we book ola based on traffice rain cab cost ll be different
+face detection in camera
+overspeed vehicle ll be zoom and take numberplate number and sent fine bill to the address
+
+is we don have anaconda we can use google Colab
+
+
+
+
+
+
+
+
+
+
+

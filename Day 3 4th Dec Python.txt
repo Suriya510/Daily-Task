@@ -1,0 +1,52 @@
+python note book will share the code to compiler and it will give responses
+compliler is the peace of instruction llcan understand what we write
+
+We can use markdown to create heading or Notes
+
+if our system is not work we need to restart kernal
+
+file and download in notebook .ipynb formate to share the file to anyone
+going forward .py format
+
+We cant directly open this file.Need to upload that file in jupyter notebook and need to open
+
+Assignments:
+answers in jupyter Notebook
+download in local system
+open Github
+upload the ans file
+open the file from git and copy that link and share to submit assignment url part
+
+python is very easy pgm language
+
+system pgm
+GUI interface
+webscrapping
+DB
+scientific/Numaric pgm
+create a game
+robotics
+
+advantage:
+1.easy to learn
+2.many inbuilt library(no need to write all code)
+3.python supports ml complter vision all of these(without plugings)
+
+there are 2 version 2.x and 3.x
+we are going to use 3.x
+
+
+python supports script and opps concept codes
+
+shift +tab to check the function definition
+
+File name: Day 3 Dec 4 Python
+
+
+
+
+
+
+
+
+
